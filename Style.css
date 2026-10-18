@@ -1,0 +1,111 @@
+* {box-sizing: border-box;}
+.container{font-family: sans-serif;
+padding-bottom: 19px;}
+
+h1{margin-block: 0;}
+
+.border_radius{
+    border-radius: 20px;}
+.section_padding {
+    padding: 2%;
+}
+.text_color {color: white;}
+.text-center {
+    text-align: center;
+}
+.section_width {
+    width: 70%;
+}
+.margin_auto {
+    margin: auto; 
+}
+.skills_padding {padding:2%}
+span.text_color4 {font-weight: 700;}
+body{margin: 0; }
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    position: relative;}
+
+.logo {
+    width: 10%;}  
+
+.bg_color_header {
+    background-color: rgb(26, 75, 126);
+}
+
+
+.bg_color_white {background-color: white ;}
+
+.bg_color_footer { background-color:#0A192F}
+.intersection_margin {
+    margin-block: 2%;
+}
+.container {
+    background-color: lightgray;
+overflow: auto;}
+.rights {color: aqua;}  
+.my_skills {float: left;}
+.clear_fix {clear: both;}
+.wd_25{width: 22% ;}
+
+
+.my_skills { border: 1px rgba(91, 67, 249, 0.137) solid;
+border-radius: 10%;
+margin: 1%;;}
+
+.nav_anchor {
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 20px;
+    background-color: #0F4C81;
+    padding: 12px;
+    color: white;
+    margin-inline: 5px
+    ;
+    display: inline-block;
+text-decoration: none;}
+.text_color2 {color:#94C6F1}
+.text_color3 {color: #0F4C81;}
+.text_color4 {color: rgb(11, 101, 173);}
+.bold_text{font-weight: 700;}
+
+.about_me_describtion {width:75%;
+position: relative ; 
+right: 5%; 
+}
+.float_left {float: left;}
+h1 {margin-block: 2%;}
+.clear_fix{clear: both;}
+.float_right{float: right;}
+.profile div {width: 25%;}
+.position {position: relative;}
+
+.inside_section_padding {padding: 2%;}
+
+.links_button {
+    border: 1px solid rgba(250, 247, 247, 0.208);
+    border-radius: 15px;
+    background-color: #0B65AD;
+    padding: 2.2% 2% ;
+    color: white;
+    text-decoration: none;
+    position: relative;
+top: 20px;}
+
+.font_size {font-size: smaller;}
+/* experience */
+.margin {margin: 2%;}
+.logo{width: 100px;}
+.border_exp {border: 1px solid #0b64ad22; 
+border-radius: 10px;}
+.border_left{border-left: solid #0B65AD 5px;}
+.experience1{margin: 5%; ;}
+.exp_margin_padding{margin-block: 2%; padding: 2%;}
+.links{padding: 2%;}
+.about-me{padding-bottom: 2%;}
+
+.boxes_bg_color{background-color: rgb(248, 250, 252);}
+.contact-me{padding-block: 1%;}
